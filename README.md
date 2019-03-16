@@ -65,8 +65,7 @@ Questions you should ask yourself:
   * takes in an argument of a `Follower` instance and adds them to this cult's list of followers -->
 * `Cult#cult_population`
   * returns a `Fixnum` that is the number of followers in this cult
-<!-- * `Cult.all`
-  * returns an `Array` of all the cults -->
+ s
 * `Cult.find_by_name`
   * takes a `String` argument that is a name and returns a `Cult` instance whose name matches that argument
 * `Cult.find_by_location`
